@@ -10,7 +10,7 @@ A Simple Weather App in SwiftUI MVVM
 
 # Requirements
 
-- iOS 14.0+
+- iOS 13.0+
 - Xcode 12.0+
 - Swift 5.0
 
